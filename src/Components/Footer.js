@@ -10,7 +10,7 @@ function Footer() {
     <div>
       <Container fluid className="footer">
         Copywrite © {year} | Made with <i className="far fa-heart"></i>{" "}
-        Soumyajit
+        Robert
       </Container>
     </div>
   );
